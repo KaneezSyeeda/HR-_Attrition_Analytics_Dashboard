@@ -8,6 +8,7 @@ This project analyzes employee attrition using MySQL and Power BI. The objective
 - MySQL
 - SQL
 - SQL Views
+- DAX
 - Power BI
 - ODBC Connector
 - Microsoft Excel
@@ -47,7 +48,7 @@ This project analyzes employee attrition using MySQL and Power BI. The objective
 │── Dashboard.pbix
 │── SQL_Queries.sql
 │── Dashboard_Screenshot.png
-│── Dataset.xlsx (optional)
+│── Dataset.xlsx
 
 ## Dashboard Preview
 <img width="927" height="527" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/ca0f9eaa-335c-4002-9cd9-e43057609d43" />
